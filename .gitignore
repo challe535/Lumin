@@ -1,10 +1,10 @@
 # Directories
 .vs/
-bin/
-bin-int/
+./bin/
+./bin-int/
 
 
 # Files
-**/*.user
-**/*.sln
-**/*.vcxproj.*
+*.user
+*.sln
+*.vcxproj.*
